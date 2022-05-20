@@ -1,3 +1,4 @@
+# Y-M-D   T H:M:S     ObsNum ObsGoal       ObgPgm    SourceName                ProjectId                 RestFreq  VLSR   TINT     RA        DEC          AZ    EL
 2022-05-20T05:15:42   100094  Pointing     Map       1540+147                  2021-S1-US-17                  RSR      0     100.5  235.206215  14.796079  275.4  33.5
 2022-05-20T05:20:19   100095  Calibration  Cal       J1557+1540                2021-S1-US-17                  RSR      0      22.0  239.430250  15.672447  275.6  37.0
 2022-05-20T05:21:26   100096  Science      Bs        J1557+1540                2021-S1-US-17                  RSR      0     367.6  239.430250  15.672447  275.7  36.3
